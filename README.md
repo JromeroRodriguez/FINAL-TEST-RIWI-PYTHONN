@@ -25,4 +25,4 @@ To run this project, you only need to have Python installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JromeroRodriguez/FINAL-TEST-RIWI-PYTHON.git
+   git clone https://github.com/JromeroRodriguez/FINAL-TEST-RIWI-PYTHONN.git
